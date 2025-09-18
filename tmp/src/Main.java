@@ -1,30 +1,55 @@
-class Solution {
-    public boolean[] subsequenceSumAfterCapping(int[] nums, int k) {
-        // 不是滑动窗口（滑动窗口得是连续的，这是子序列）
-        // 动态规划？选或者不选，0-1 背包？
-        boolean[] result = new boolean[nums.length];
-        for (int x = 1; x <= nums.length; x++){
-            int[] dp = new int[k+1];
-            dp[0] = 1;
-            for(int i=0; i<nums.length; i++){
-                int v = Math.min(nums[i], x);
-                // 0-1 背包
-                for(int j=k; j>=v; j--){
-                    dp[j] |= dp[j-v];
-                }
-                if(dp[k]==1) break;
-            }
-            result[x-1] = dp[k]==1;
-        }
-        return result;
+import java.util.HashMap;
+import java.util.List;
+import java.util.PriorityQueue;
 
+class TaskManager {
+    private HashMap<Integer, int[]> taskMap;
+    private PriorityQueue<int[]> heap;
+    public TaskManager(List<List<Integer>> tasks) {
+        // key taskId, 0 priority, 1 userId
+        taskMap = new HashMap<>();
+        // 0 priority, 1 taskId
+        // 最大堆，优先级高的先执行
+        heap = new PriorityQueue<>((a, b) -> (b[0] - a[0] == 0) ? b[1] - a[1] : b[0] - a[0]);
+
+        for(List<Integer> task: tasks){
+            add(task.get(0), task.get(1), task.get(2));
+        }
+    }
+
+    public void add(int userId, int taskId, int priority) {
+        int[] task_info = new int[]{priority, userId};
+        int[] queue_task_info = new int[]{priority, taskId};
+        taskMap.put(taskId, task_info);
+        heap.add(queue_task_info);
+    }
+
+    public void edit(int taskId, int newPriority) {
+        this.add(taskMap.get(taskId)[1], taskId, newPriority);
+    }
+
+    public void rmv(int taskId) {
+        taskMap.remove(taskId);
+    }
+
+    public int execTop() {
+        while(!heap.isEmpty()){
+            int[] queue_task_info = heap.poll();
+            int priority = queue_task_info[0];
+            int taskId = queue_task_info[1];
+            if(taskMap.containsKey(taskId)){
+                int[] task_info = taskMap.get(taskId);
+                if(task_info[0] == priority){
+                    rmv(taskId);
+                    return task_info[1];
+                }
+            }
+        }
+        return -1;
     }
 
     public static void main(String[] args) {
-        Solution sol = new Solution();
-        boolean[] result = sol.subsequenceSumAfterCapping(new int[]{11,12,2,8,4,19,10,10,14,20,17,10,2,13,20,15,20,9,13,16}, 6);
-        for (boolean x: result){
-            System.out.print(x + " ");
-        }
+//        TaskManager tm = new TaskManager(new ArrayList<>());
+
     }
 }
