@@ -3,10 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/math/No.1104/No.1104.iml" filepath="$PROJECT_DIR$/math/No.1104/No.1104.iml" />
-      <module fileurl="file://$PROJECT_DIR$/slide_window/No.1234/No.1234.iml" filepath="$PROJECT_DIR$/slide_window/No.1234/No.1234.iml" />
+      <module fileurl="file://$PROJECT_DIR$/silde_window/No.1234/No.1234.iml" filepath="$PROJECT_DIR$/silde_window/No.1234/No.1234.iml" />
       <module fileurl="file://$PROJECT_DIR$/sum/No.1310/No.1310.iml" filepath="$PROJECT_DIR$/sum/No.1310/No.1310.iml" />
       <module fileurl="file://$PROJECT_DIR$/sum/No.1442/No.1442.iml" filepath="$PROJECT_DIR$/sum/No.1442/No.1442.iml" />
       <module fileurl="file://$PROJECT_DIR$/sum/No.1480/No.1480.iml" filepath="$PROJECT_DIR$/sum/No.1480/No.1480.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple/No.165/No.165.iml" filepath="$PROJECT_DIR$/simple/No.165/No.165.iml" />
       <module fileurl="file://$PROJECT_DIR$/sum/No.1732/No.1732.iml" filepath="$PROJECT_DIR$/sum/No.1732/No.1732.iml" />
       <module fileurl="file://$PROJECT_DIR$/sum/No.1862/No.1862.iml" filepath="$PROJECT_DIR$/sum/No.1862/No.1862.iml" />
       <module fileurl="file://$PROJECT_DIR$/simple/No.1935/No.1935.iml" filepath="$PROJECT_DIR$/simple/No.1935/No.1935.iml" />
@@ -18,7 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/sum/No.304/No.304.iml" filepath="$PROJECT_DIR$/sum/No.304/No.304.iml" />
       <module fileurl="file://$PROJECT_DIR$/heap/No.3408/No.3408.iml" filepath="$PROJECT_DIR$/heap/No.3408/No.3408.iml" />
       <module fileurl="file://$PROJECT_DIR$/simple/No.3541/No.3541.iml" filepath="$PROJECT_DIR$/simple/No.3541/No.3541.iml" />
-      <module fileurl="file://$PROJECT_DIR$/slide_window/No.3634/No.3634.iml" filepath="$PROJECT_DIR$/slide_window/No.3634/No.3634.iml" />
+      <module fileurl="file://$PROJECT_DIR$/silde_window/No.3634/No.3634.iml" filepath="$PROJECT_DIR$/silde_window/No.3634/No.3634.iml" />
       <module fileurl="file://$PROJECT_DIR$/simple/No.3674/No.3674.iml" filepath="$PROJECT_DIR$/simple/No.3674/No.3674.iml" />
       <module fileurl="file://$PROJECT_DIR$/simple/No.3675/No.3675.iml" filepath="$PROJECT_DIR$/simple/No.3675/No.3675.iml" />
       <module fileurl="file://$PROJECT_DIR$/stack/No.3676/No.3676.iml" filepath="$PROJECT_DIR$/stack/No.3676/No.3676.iml" />
@@ -27,6 +28,7 @@
       <module fileurl="file://$PROJECT_DIR$/sort/No.3684/No.3684.iml" filepath="$PROJECT_DIR$/sort/No.3684/No.3684.iml" />
       <module fileurl="file://$PROJECT_DIR$/dp/No.3685/No.3685.iml" filepath="$PROJECT_DIR$/dp/No.3685/No.3685.iml" />
       <module fileurl="file://$PROJECT_DIR$/dp/No.3686/No.3686.iml" filepath="$PROJECT_DIR$/dp/No.3686/No.3686.iml" />
+      <module fileurl="file://$PROJECT_DIR$/silde_window/No.611/No.611.iml" filepath="$PROJECT_DIR$/silde_window/No.611/No.611.iml" />
       <module fileurl="file://$PROJECT_DIR$/dp/No.729_Calender1/No.729_Calender1.iml" filepath="$PROJECT_DIR$/dp/No.729_Calender1/No.729_Calender1.iml" />
       <module fileurl="file://$PROJECT_DIR$/hash/No.966/No.966.iml" filepath="$PROJECT_DIR$/hash/No.966/No.966.iml" />
       <module fileurl="file://$PROJECT_DIR$/sum/No.974/No.974.iml" filepath="$PROJECT_DIR$/sum/No.974/No.974.iml" />
@@ -36,13 +38,13 @@
       <module fileurl="file://$PROJECT_DIR$/stack/No.3676/Solution1/Solution1.iml" filepath="$PROJECT_DIR$/stack/No.3676/Solution1/Solution1.iml" />
       <module fileurl="file://$PROJECT_DIR$/sum/No.1442/Solution1_N3/Solution1_N3.iml" filepath="$PROJECT_DIR$/sum/No.1442/Solution1_N3/Solution1_N3.iml" />
       <module fileurl="file://$PROJECT_DIR$/sum/No.209/Solution1_N_silde_window/Solution1_N_silde_window.iml" filepath="$PROJECT_DIR$/sum/No.209/Solution1_N_silde_window/Solution1_N_silde_window.iml" />
-      <module fileurl="file://$PROJECT_DIR$/slide_window/No.3634/Solution1_binarySearch/Solution1_binarySearch.iml" filepath="$PROJECT_DIR$/slide_window/No.3634/Solution1_binarySearch/Solution1_binarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/silde_window/No.3634/Solution1_binarySearch/Solution1_binarySearch.iml" filepath="$PROJECT_DIR$/silde_window/No.3634/Solution1_binarySearch/Solution1_binarySearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/heap/No.2349/Solution1_map_heap/Solution1_map_heap.iml" filepath="$PROJECT_DIR$/heap/No.2349/Solution1_map_heap/Solution1_map_heap.iml" />
       <module fileurl="file://$PROJECT_DIR$/stack/No.3676/Solution2/Solution2.iml" filepath="$PROJECT_DIR$/stack/No.3676/Solution2/Solution2.iml" />
       <module fileurl="file://$PROJECT_DIR$/sum/No.1442/Solution2_N2/Solution2_N2.iml" filepath="$PROJECT_DIR$/sum/No.1442/Solution2_N2/Solution2_N2.iml" />
       <module fileurl="file://$PROJECT_DIR$/sum/No.209/Solution2_NlogN_binary_search/Solution2_NlogN_binary_search.iml" filepath="$PROJECT_DIR$/sum/No.209/Solution2_NlogN_binary_search/Solution2_NlogN_binary_search.iml" />
       <module fileurl="file://$PROJECT_DIR$/heap/No.2349/Solution2_map_set/Solution2_map_set.iml" filepath="$PROJECT_DIR$/heap/No.2349/Solution2_map_set/Solution2_map_set.iml" />
-      <module fileurl="file://$PROJECT_DIR$/slide_window/No.3634/Solution2_slide_window/Solution2_slide_window.iml" filepath="$PROJECT_DIR$/slide_window/No.3634/Solution2_slide_window/Solution2_slide_window.iml" />
+      <module fileurl="file://$PROJECT_DIR$/silde_window/No.3634/Solution2_slide_window/Solution2_slide_window.iml" filepath="$PROJECT_DIR$/silde_window/No.3634/Solution2_slide_window/Solution2_slide_window.iml" />
       <module fileurl="file://$PROJECT_DIR$/sum/No.1442/Solution3_N1_hash/Solution3_N1_hash.iml" filepath="$PROJECT_DIR$/sum/No.1442/Solution3_N1_hash/Solution3_N1_hash.iml" />
       <module fileurl="file://$PROJECT_DIR$/dp/dp.iml" filepath="$PROJECT_DIR$/dp/dp.iml" />
       <module fileurl="file://$PROJECT_DIR$/greedy/greedy.iml" filepath="$PROJECT_DIR$/greedy/greedy.iml" />
@@ -50,6 +52,7 @@
       <module fileurl="file://$PROJECT_DIR$/heap/heap.iml" filepath="$PROJECT_DIR$/heap/heap.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/leetcode-notes.iml" filepath="$PROJECT_DIR$/.idea/leetcode-notes.iml" />
       <module fileurl="file://$PROJECT_DIR$/math/math.iml" filepath="$PROJECT_DIR$/math/math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/silde_window/silde_window.iml" filepath="$PROJECT_DIR$/silde_window/silde_window.iml" />
       <module fileurl="file://$PROJECT_DIR$/simple/simple.iml" filepath="$PROJECT_DIR$/simple/simple.iml" />
       <module fileurl="file://$PROJECT_DIR$/slide_window/slide_window.iml" filepath="$PROJECT_DIR$/slide_window/slide_window.iml" />
       <module fileurl="file://$PROJECT_DIR$/sort/sort.iml" filepath="$PROJECT_DIR$/sort/sort.iml" />
