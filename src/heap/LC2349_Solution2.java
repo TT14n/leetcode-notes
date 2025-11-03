@@ -1,7 +1,6 @@
 package heap;
 
 import java.util.HashMap;
-import java.util.PriorityQueue;
 import java.util.TreeSet;
 
 public class LC2349_Solution2 {

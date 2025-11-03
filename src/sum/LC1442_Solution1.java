@@ -1,6 +1,5 @@
 package sum;
 
-import java.util.Arrays;
 public class LC1442_Solution1 {
     public int countTriplets(int[] arr) {
         // 两次异或可抵消

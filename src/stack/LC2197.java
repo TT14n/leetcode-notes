@@ -2,6 +2,7 @@ package stack;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Deque;
 import java.util.List;
 public class LC2197 {
@@ -29,7 +30,9 @@ public class LC2197 {
             }
             stack.push(lcm);
         }
-        return new ArrayList<>(stack.reversed());
+        List<Integer> list = new ArrayList<>(stack);
+        Collections.reverse(list);
+        return list;
     }
 
     public static void main(String[] args) {

@@ -21,8 +21,8 @@ public class LCR010 {
     public static void main(String[] args) {
         int[] nums = {1,1,1};
         int k = 2;
-        Solution s = new LCR010();
-        System.out.println(s.subarraySum(nums, k));
+        LCR010 solution = new LCR010();
+        System.out.println(solution.subarraySum(nums, k));
     }
 }
 

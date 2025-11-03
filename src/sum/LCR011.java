@@ -7,7 +7,7 @@ public class LCR011 {
         int[] sumArray = new int[nums.length + 1];
         HashMap<Integer, Integer> map = new HashMap<>();
         int ans = 0;
-        map.put(0, 0);
+        map.put(0,  0);
         for(int i=0; i<nums.length; i++){
             sumArray[i+1] = sumArray[i] + (nums[i]==1 ? 1 : -1);
 //            System.out.println(i + " " + sumArray[i+1] + " " + nums[i]);

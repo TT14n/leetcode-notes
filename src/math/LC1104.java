@@ -1,6 +1,7 @@
 package math;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 public class LC1104 {
@@ -27,7 +28,7 @@ public class LC1104 {
                 result.add(label);
             }
         }
-        result = result.reversed();
+        Collections.reverse(result);
         return result;
     }
 

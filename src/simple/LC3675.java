@@ -1,8 +1,4 @@
 package simple;
-
-import java.util.Map;
-import java.util.TreeMap;
-import java.util.Map.Entry;
 public class LC3675 {
     public int minOperations(String s) {
         char ch = 'b';

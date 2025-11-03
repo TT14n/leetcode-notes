@@ -12,6 +12,7 @@ public class LC3683 {
     public static void main(String[] args) {
         LC3683 sol = new LC3683();
         int result = sol.earliestTime(new int[][]{{1, 6}, {2, 3}});
+        System.out.println(result);
     }
 }
 
