@@ -1,0 +1,21 @@
+{
+  "editor.inlineSuggest.enabled": false,
+  "editor.quickSuggestions": {
+    "other": "on",
+    "comments": false,
+    "strings": false
+  },
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "editor.acceptSuggestionOnEnter": "smart",
+  "editor.suggestOnTriggerCharacters": true,
+  "editor.parameterHints.enabled": false,
+  "editor.wordBasedSuggestions": "off",
+  "github.copilot.enable": {
+    "*": false
+  },
+  "cursor.cpp.disabledLanguages": ["java"],
+  "java.debug.settings.enableRunDebugCodeLens": false,
+  "debug.onTaskErrors": "showErrors",
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.debug.logLevel": "warn"
+}

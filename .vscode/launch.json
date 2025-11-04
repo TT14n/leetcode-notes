@@ -1,0 +1,51 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Debug Current Java File",
+      "request": "launch",
+      "mainClass": "${file}",
+      "projectName": "leetcode-notes_43e4ff4",
+      "console": "internalConsole",
+      "internalConsoleOptions": "openOnSessionStart",
+      "vmArgs": "",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Run Current Java File (No Debug)",
+      "request": "launch",
+      "mainClass": "${file}",
+      "projectName": "leetcode-notes_43e4ff4",
+      "console": "internalConsole",
+      "internalConsoleOptions": "openOnSessionStart",
+      "vmArgs": "",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "LC2589",
+      "request": "launch",
+      "mainClass": "greedy.LC2589",
+      "projectName": "leetcode-notes_43e4ff4",
+      "console": "internalConsole",
+      "internalConsoleOptions": "openOnSessionStart"
+    },
+    {
+      "type": "java",
+      "name": "LC2405",
+      "request": "launch",
+      "mainClass": "greedy.LC2405",
+      "projectName": "leetcode-notes_43e4ff4",
+      "console": "internalConsole",
+      "internalConsoleOptions": "openOnSessionStart"
+    },
+    {
+      "name": "Run Current Java File (PowerShell)",
+      "type": "node-terminal",
+      "request": "launch",
+      "command": "powershell.exe -ExecutionPolicy Bypass -File \"${workspaceFolder}/run-java.ps1\" \"${file}\""
+    }
+  ]
+}
