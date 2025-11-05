@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LC3318",
+      "request": "launch",
+      "mainClass": "LC3318",
+      "projectName": "leetcode-notes_43e4ff4"
+    },
+    {
+      "type": "java",
+      "name": "LC729_segmentTree",
+      "request": "launch",
+      "mainClass": "LC729_segmentTree",
+      "projectName": "leetcode-notes_43e4ff4"
+    },
+    {
+      "type": "java",
+      "name": "LC3507",
+      "request": "launch",
+      "mainClass": "LC3507",
+      "projectName": "leetcode-notes_43e4ff4"
+    },
+    {
+      "type": "java",
       "name": "Debug Current Java File",
       "request": "launch",
       "mainClass": "${file}",

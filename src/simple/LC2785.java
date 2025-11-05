@@ -1,4 +1,4 @@
-package sort;
+package simple;
 
 import java.util.*;
 public class LC2785 {
@@ -36,6 +36,7 @@ public class LC2785 {
         System.out.println(result);
     }
 }
+
 
 
 
