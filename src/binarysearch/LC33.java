@@ -1,3 +1,4 @@
+package binarysearch;
 public class LC33 {
     public static void main(String[] args) {
         LC33 solution = new LC33();
@@ -5,7 +6,6 @@ public class LC33 {
     }
 
     public int search(int[] nums, int target) {
-        // 确定旋转位置
         int l=0, r=nums.length-1;
         while(l < r){
             int mid = (l+r)/2;

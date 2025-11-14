@@ -18,5 +18,7 @@
   "debug.onTaskErrors": "showErrors",
   "java.configuration.updateBuildConfiguration": "automatic",
   "java.debug.logLevel": "warn",
-  "java.debug.settings.onBuildFailureProceed": true
+  "java.debug.settings.onBuildFailureProceed": true,
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin"
 }

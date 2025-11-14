@@ -3,34 +3,6 @@
   "configurations": [
     {
       "type": "java",
-      "name": "LC42",
-      "request": "launch",
-      "mainClass": "LC42",
-      "projectName": "leetcode-notes_43e4ff4"
-    },
-    {
-      "type": "java",
-      "name": "LC3318",
-      "request": "launch",
-      "mainClass": "LC3318",
-      "projectName": "leetcode-notes_43e4ff4"
-    },
-    {
-      "type": "java",
-      "name": "LC729_segmentTree",
-      "request": "launch",
-      "mainClass": "LC729_segmentTree",
-      "projectName": "leetcode-notes_43e4ff4"
-    },
-    {
-      "type": "java",
-      "name": "LC3507",
-      "request": "launch",
-      "mainClass": "LC3507",
-      "projectName": "leetcode-notes_43e4ff4"
-    },
-    {
-      "type": "java",
       "name": "Debug Current Java File",
       "request": "launch",
       "mainClass": "${file}",
@@ -48,32 +20,9 @@
       "projectName": "leetcode-notes_43e4ff4",
       "console": "internalConsole",
       "internalConsoleOptions": "openOnSessionStart",
+      "noDebug": true,
       "vmArgs": "",
       "args": ""
-    },
-    {
-      "type": "java",
-      "name": "LC2589",
-      "request": "launch",
-      "mainClass": "greedy.LC2589",
-      "projectName": "leetcode-notes_43e4ff4",
-      "console": "internalConsole",
-      "internalConsoleOptions": "openOnSessionStart"
-    },
-    {
-      "type": "java",
-      "name": "LC2405",
-      "request": "launch",
-      "mainClass": "greedy.LC2405",
-      "projectName": "leetcode-notes_43e4ff4",
-      "console": "internalConsole",
-      "internalConsoleOptions": "openOnSessionStart"
-    },
-    {
-      "name": "Run Current Java File (PowerShell)",
-      "type": "node-terminal",
-      "request": "launch",
-      "command": "powershell.exe -ExecutionPolicy Bypass -File \"${workspaceFolder}/run-java.ps1\" \"${file}\""
     }
   ]
 }
