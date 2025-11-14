@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LC42",
+      "request": "launch",
+      "mainClass": "LC42",
+      "projectName": "leetcode-notes_43e4ff4"
+    },
+    {
+      "type": "java",
       "name": "LC3318",
       "request": "launch",
       "mainClass": "LC3318",

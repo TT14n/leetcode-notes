@@ -17,5 +17,6 @@
   "java.debug.settings.enableRunDebugCodeLens": false,
   "debug.onTaskErrors": "showErrors",
   "java.configuration.updateBuildConfiguration": "automatic",
-  "java.debug.logLevel": "warn"
+  "java.debug.logLevel": "warn",
+  "java.debug.settings.onBuildFailureProceed": true
 }
