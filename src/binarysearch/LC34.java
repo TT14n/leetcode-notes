@@ -1,5 +1,4 @@
 package binarysearch;
-import slidingwindow.LC3;
 
 public class LC34 {
     

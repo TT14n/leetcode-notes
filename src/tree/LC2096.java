@@ -1,9 +1,6 @@
 package tree;
 import java.util.ArrayDeque;
-import java.util.ArrayList;
 import java.util.Deque;
-
-import javax.swing.tree.TreeNode;
 
 public class LC2096 {
     public class TreeNode {
