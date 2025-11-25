@@ -1,5 +1,4 @@
 package linkedlist;
-import java.util.HashMap;
 
 public class LC160_sol2 {
     public class ListNode {

@@ -1,5 +1,4 @@
 package simple;
-import tree.LC2096.TreeNode;
 
 public class LC1145 {
     public class TreeNode {
