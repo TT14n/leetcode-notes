@@ -1,5 +1,4 @@
 package math;
-import java.util.HashMap;
 
 public class LC2154_sol2 {
     public static void main(String[] args) {
