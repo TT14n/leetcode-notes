@@ -3,11 +3,18 @@
   "configurations": [
     {
       "type": "java",
+      "name": "No326",
+      "request": "launch",
+      "mainClass": "KamaCoder.Issue086.No326",
+      "projectName": "leetcode-notes_43e4ff4"
+    },
+    {
+      "type": "java",
       "name": "Debug Current Java File",
       "request": "launch",
       "mainClass": "${file}",
       "projectName": "leetcode-notes_43e4ff4",
-      "console": "internalConsole",
+      "console": "integratedTerminal",
       "internalConsoleOptions": "openOnSessionStart",
       "vmArgs": "",
       "args": ""
@@ -18,7 +25,7 @@
       "request": "launch",
       "mainClass": "${file}",
       "projectName": "leetcode-notes_43e4ff4",
-      "console": "internalConsole",
+      "console": "integratedTerminal",
       "internalConsoleOptions": "openOnSessionStart",
       "noDebug": true,
       "vmArgs": "",
