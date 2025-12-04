@@ -1,7 +1,7 @@
 package linkedlist;
 public class LC2 {
 
-    public class ListNode {
+    class ListNode {
         int val;
         ListNode next;
         ListNode() {}

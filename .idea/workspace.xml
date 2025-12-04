@@ -5,126 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce56be11-8bf4-458f-ac9e-56591157ed6c" name="更改" comment="9.18 更新">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dp/No.3685/No.3685.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dp/No.3685/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dp/No.3686/No.3686.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dp/No.3686/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dp/No.729_Calender1/No.729_Calender1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dp/No.729_Calender1/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dp/dp.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greedy/greedy.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/greedy/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hash/No.966/No.966.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hash/No.966/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hash/hash.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hash/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heap/No.2349/No.2349.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heap/No.2349/Solution1_map_heap/Solution1_map_heap.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heap/No.2349/Solution1_map_heap/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heap/No.2349/Solution2_map_set/Solution2_map_set.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heap/No.2349/Solution2_map_set/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heap/No.3408/No.3408.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heap/No.3408/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heap/heap.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/No.1104/No.1104.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/No.1104/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/No.3677/No.3677.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/No.3677/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/math/math.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/No.1234/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/No.1310/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/No.1442/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/No.1480/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/No.1732/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/No.1862/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/No.1935/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/No.209/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/No.238/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/No.304/NumMatrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/No.3541/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/No.3674/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/No.3684/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/No.974/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/No.LCR010/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/No.LCR011/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Solution1_map_heap/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Solution2/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Solution2_NlogN_binary_search/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Solution2_slide_window/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Solution3_N1_hash/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/greedy/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hash/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/no.2785/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tmp/NumberContainers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple/No.1935/No.1935.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple/No.1935/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple/No.3541/No.3541.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple/No.3541/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple/No.3674/No.3674.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple/No.3674/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple/No.3675/No.3675.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple/No.3675/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple/No.3683/No.3683.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple/No.3683/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple/simple.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slide_window/No.1234/No.1234.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slide_window/No.1234/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slide_window/No.3634/No.3634.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slide_window/No.3634/Solution1_binarySearch/Solution1_binarySearch.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slide_window/No.3634/Solution1_binarySearch/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slide_window/No.3634/Solution2_slide_window/Solution2_slide_window.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slide_window/No.3634/Solution2_slide_window/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slide_window/slide_window.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sort/No.2785/No.2785.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sort/No.2785/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sort/No.3684/No.3684.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sort/No.3684/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sort/sort.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stack/No.2197/No.2197.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stack/No.2197/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stack/No.3676/No.3676.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stack/No.3676/Solution1/Solution1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stack/No.3676/Solution1/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stack/No.3676/Solution2/Solution2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stack/No.3676/Solution2/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stack/stack.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum/No.1310/No.1310.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum/No.1310/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum/No.1442/No.1442.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum/No.1442/Solution1_N3/Solution1_N3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum/No.1442/Solution1_N3/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum/No.1442/Solution2_N2/Solution2_N2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum/No.1442/Solution2_N2/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum/No.1442/Solution3_N1_hash/Solution3_N1_hash.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum/No.1442/Solution3_N1_hash/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum/No.1480/No.1480.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum/No.1480/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum/No.1732/No.1732.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum/No.1732/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum/No.1862/No.1862.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum/No.1862/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum/No.209/No.209.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum/No.209/Solution1_N_silde_window/Solution1_N_silde_window.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum/No.209/Solution1_N_silde_window/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum/No.209/Solution2_NlogN_binary_search/Solution2_NlogN_binary_search.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum/No.209/Solution2_NlogN_binary_search/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum/No.238/No.238.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum/No.238/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum/No.304/No.304.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum/No.304/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum/No.974/No.974.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum/No.974/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum/No.LCR008/No.LCR008.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum/No.LCR008/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum/No.LCR010/No.LCR010.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum/No.LCR010/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum/No.LCR011/No.LCR011.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum/No.LCR011/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum/sum.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/tmp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -221,8 +102,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
-        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-IU-252.23892.409" />
+        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-PY-252.28238.29" />
+        <option value="bundled-python-sdk-a101402ee41c-968fe969f28a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.28238.29" />
       </set>
     </attachedChunks>
   </component>
@@ -255,6 +136,9 @@
       <workItem from="1758896715811" duration="719000" />
       <workItem from="1762160084425" duration="2239000" />
       <workItem from="1762168703533" duration="1107000" />
+      <workItem from="1764664976829" duration="368000" />
+      <workItem from="1764665438842" duration="495000" />
+      <workItem from="1764665958292" duration="497000" />
     </task>
     <task id="LOCAL-00001" summary="初始化仓库">
       <option name="closed" value="true" />
@@ -299,76 +183,5 @@
     <MESSAGE value="9.15 打卡" />
     <MESSAGE value="9.18 更新" />
     <option name="LAST_COMMIT_MESSAGE" value="9.18 更新" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/simple/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/sort/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/sum/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/sum/No.209/Solution1_N_silde_window/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/stack/No.3676/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/math/src/Main.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/hash/No.966/src/Main.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/dp/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/silde_window/No.3634/src/Main.java</url>
-          <line>36</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/slide_window/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/heap/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/heap/No.2349/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/silde_window/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="29" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
