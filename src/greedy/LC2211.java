@@ -1,6 +1,4 @@
 package greedy;
-import java.util.ArrayDeque;
-import java.util.Deque;
 
 public class LC2211 {
     public static void main(String[] args) {

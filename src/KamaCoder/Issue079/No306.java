@@ -1,6 +1,5 @@
 package KamaCoder.Issue079;
 
-import java.io.*;
 import java.util.*;
 
 public class No306 {

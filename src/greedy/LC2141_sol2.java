@@ -1,6 +1,5 @@
 package greedy;
 import java.util.Arrays;
-import java.util.Comparator;
 
 public class LC2141_sol2 {
     public static void main(String[] args) {

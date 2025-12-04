@@ -2,8 +2,6 @@ package KamaCoder.Issue086;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import java.util.Arrays;
-import java.util.stream.Stream;
 
 public class No327_sol2 {
     public static void main(String[] args) throws Exception {
