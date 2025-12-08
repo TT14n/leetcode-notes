@@ -1,10 +1,11 @@
-package KamaCoder.Issue086;
 
+package KamaCoder.Issue086;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
+import java.util.*;
  
-public class Main {
+public class No328 {
+    static long ans = 0;
     public static void main(String[] args) throws Exception {
         // read part
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -33,12 +34,46 @@ public class Main {
             adj.get(v).add(u);
         }
 
+        
         // for(int i=0; i<n; i++){
         //     System.out.println(adj.get(i));
         // }
-    
-    
-     
+        
+        // 把 0 作为根节点
+        int[] visited = new int[n];
+        long cnt = dfs(0, visited, adj, b);
+        if(cnt > 0){
+            ans += cnt*(cnt-1)/2;
+        }
+        System.out.println(ans); 
+        
+    }
+
+    // 返回连通块的节点数量
+    static long dfs(int u, int[] visited, ArrayList<ArrayList<Integer>> adj, int[] b){
+        visited[u] = 1;
+        List<Integer> arr = new ArrayList<>();
+        int mod = b[u] % 2;
+        int sum = 0;
+        if(mod==0){
+            sum++;
+            ans++;
+        }
+        for(int v : adj.get(u)){
+            if(visited[v] == 1){
+                continue;
+            } 
+            long cnt = dfs(v, visited, adj, b);
+            if(mod == 1){
+                if(cnt > 0){
+                    ans += cnt*(cnt-1)/2;
+                }
+                continue;
+            }
+            sum += cnt;
+        }
+        
+        return sum;
     }
  
 }
