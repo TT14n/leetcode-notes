@@ -52,7 +52,6 @@ public class No328 {
     // 返回连通块的节点数量
     static long dfs(int u, int[] visited, ArrayList<ArrayList<Integer>> adj, int[] b){
         visited[u] = 1;
-        List<Integer> arr = new ArrayList<>();
         int mod = b[u] % 2;
         int sum = 0;
         if(mod==0){

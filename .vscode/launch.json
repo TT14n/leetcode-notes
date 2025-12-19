@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "KamaCoder.Issue089.Main",
+      "projectName": "leetcode-notes_43e4ff4"
+    },
+    {
+      "type": "java",
       "name": "No326",
       "request": "launch",
       "mainClass": "KamaCoder.Issue086.No326",
