@@ -1,3 +1,4 @@
+package tree;
   class Trie {
     class Node{
         boolean exist;

@@ -51,14 +51,6 @@ class LRUCache {
         }
     }
     
-    private void print(){
-        Node node = head;
-        while (node.next.next != null) {
-            node = node.next;
-            System.out.print(node.val + " ");
-        }
-        System.out.println();
-    }
     public LRUCache(int capacity) {
         map = new HashMap<>();
         head = new Node();
