@@ -1,9 +1,10 @@
 package greedy;
 
+import java.util.Arrays;
 import java.util.List;
 
 public class LC3674 {
-    private static final List<Character> vowels = List.of('a', 'e', 'i', 'o', 'u');
+    private static final List<Character> vowels = Arrays.asList('a', 'e', 'i', 'o', 'u');
     public boolean doesAliceWin(String s) {
         // int count = 0;
         for(char c: s.toCharArray()){

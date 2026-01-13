@@ -5,6 +5,13 @@
       "type": "java",
       "name": "Main",
       "request": "launch",
+      "mainClass": "KamaCoder.Issue091.Main",
+      "projectName": "leetcode-notes_43e4ff4"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
       "mainClass": "KamaCoder.Issue089.Main",
       "projectName": "leetcode-notes_43e4ff4"
     },

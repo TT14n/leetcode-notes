@@ -1,10 +1,12 @@
 package simple;
 
+import java.util.Arrays;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Set;
 
 public class LC3541 {
-    private static final Set<Character> vowels = Set.of('a', 'e', 'i', 'o', 'u');
+    private static final Set<Character> vowels = new HashSet<>(Arrays.asList('a', 'e', 'i', 'o', 'u'));
     public int maxFreqSum(String s) {
         int maxVowel = 0;
         int maxConsonant = 0;

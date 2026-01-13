@@ -99,7 +99,7 @@ public class LC3625 {
             return this.x == s.x && this.y == s.y; 
         }
         
-        static int gcd(int a, int b){
+        int gcd(int a, int b){
             if(a % b == 0){
                 return b;
             }

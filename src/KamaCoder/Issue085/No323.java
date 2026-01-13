@@ -31,7 +31,7 @@ public class No323 {
                     continue;
                 }
                 len++;
-                if(!sb.isEmpty()) sb.append(" ");
+                if(sb.length() > 0) sb.append(" ");
                 sb.append(nums[i]);
             }
             System.out.println(len);
