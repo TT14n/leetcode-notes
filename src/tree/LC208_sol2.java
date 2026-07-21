@@ -1,12 +1,12 @@
 package tree;
-  class Trie {
+class Trie2 {
     class Node{
         boolean exist;
         Node[] childs = new Node[26];
     }
     
     Node head;
-    public Trie(){
+    public Trie2(){
         head = new Node();
     }
     
